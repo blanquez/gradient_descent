@@ -130,7 +130,6 @@ fun = f(w)
 
 print('\nGrafica con learning rate igual a ', lrate)
 gd_grafica(w,lrate,grad_fun,fun)
-input("\n\n--- Pulsar tecla para continuar ---\n\n")
 
 w = np.array([1,-1])
 lrate = 0.1
