@@ -1,6 +1,5 @@
 ##############################################################
 ## Antonio José Blánquez Pérez
-## 45926869D
 ## Aprendizaje Automático - 3 CSI
 ## Grupo 2 - Martes
 ## Práctica 1 - Ejercicio 2: Regresión lineal
